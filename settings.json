@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Babloner.aternos.me:42265",
-    "port": 42265,
+    "ip": "Babloner.aternos.me",
+    "port":42265 ,
     "version": "1.21.1"
   },
   "position": {
